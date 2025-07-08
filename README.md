@@ -9,7 +9,7 @@
 
 
 
-<!-- <embed src="assert/audio-introduction.pdf" width="600" height="500" type="application/pdf"> -->
+<!-- <embed src="assert/audio-introduction.pdf" width="620" height="500" type="application/pdf"> -->
 
 Key features:
 - Pre-training: Transform single-channel audio into discrete tokens for next-token prediction
