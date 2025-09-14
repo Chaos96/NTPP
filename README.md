@@ -1,10 +1,3 @@
-# NTPP
-
----
-license: apache-2.0
----
-
-
 # NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction
 > **Authors: Qichao Wang\*, Ziqiao Meng\*, Wenqian Cui, Yifei Zhang, Pengcheng Wu, Bingzhe Wu, Irwin King, Liang Chen, Peilin Zhao†**
 
