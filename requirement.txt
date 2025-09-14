@@ -1,0 +1,6 @@
+omegaconf
+torch
+transformers
+deepspeed
+
+
